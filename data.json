@@ -322,6 +322,7 @@
     "teams": [
         {
             "id": 1,
+            "group": "a",
             "name": "Russia",
             "fifaCode": "RUS",
             "iso2": "ru",
@@ -331,6 +332,7 @@
         },
         {
             "id": 2,
+            "group": "a",
             "name": "Saudi Arabia",
             "fifaCode": "KSA",
             "iso2": "sa",
@@ -340,6 +342,7 @@
         },
         {
             "id": 3,
+            "group": "a",
             "name": "Egypt",
             "fifaCode": "EGY",
             "iso2": "eg",
@@ -349,6 +352,7 @@
         },
         {
             "id": 4,
+            "group": "a",
             "name": "Uruguay",
             "fifaCode": "URU",
             "iso2": "uy",
@@ -358,6 +362,7 @@
         },
         {
             "id": 5,
+            "group": "b",
             "name": "Portugal",
             "fifaCode": "POR",
             "iso2": "pt",
@@ -367,6 +372,7 @@
         },
         {
             "id": 6,
+            "group": "b",
             "name": "Spain",
             "fifaCode": "ESP",
             "iso2": "es",
@@ -376,6 +382,7 @@
         },
         {
             "id": 7,
+            "group": "b",
             "name": "Morocco",
             "fifaCode": "MAR",
             "iso2": "ma",
@@ -385,6 +392,7 @@
         },
         {
             "id": 8,
+            "group": "b",
             "name": "Iran",
             "fifaCode": "IRN",
             "iso2": "ir",
@@ -394,6 +402,7 @@
         },
         {
             "id": 9,
+            "group": "c",
             "name": "France",
             "fifaCode": "FRA",
             "iso2": "fr",
@@ -403,6 +412,7 @@
         },
         {
             "id": 10,
+            "group": "c",
             "name": "Australia",
             "fifaCode": "AUS",
             "iso2": "au",
@@ -412,6 +422,7 @@
         },
         {
             "id": 11,
+            "group": "c",
             "name": "Peru",
             "fifaCode": "PER",
             "iso2": "pe",
@@ -421,6 +432,7 @@
         },
         {
             "id": 12,
+            "group": "c",
             "name": "Denmark",
             "fifaCode": "DEN",
             "iso2": "dk",
@@ -430,6 +442,7 @@
         },
         {
             "id": 13,
+            "group": "d",
             "name": "Argentina",
             "fifaCode": "ARG",
             "iso2": "ar",
@@ -439,6 +452,7 @@
         },
         {
             "id": 14,
+            "group": "d",
             "name": "Iceland",
             "fifaCode": "ISL",
             "iso2": "is",
@@ -448,6 +462,7 @@
         },
         {
             "id": 15,
+            "group": "d",
             "name": "Croatia",
             "fifaCode": "CRO",
             "iso2": "hr",
@@ -457,6 +472,7 @@
         },
         {
             "id": 16,
+            "group": "d",
             "name": "Nigeria",
             "fifaCode": "NGA",
             "iso2": "ng",
@@ -466,6 +482,7 @@
         },
         {
             "id": 17,
+            "group": "e",
             "name": "Brazil",
             "fifaCode": "BRA",
             "iso2": "br",
@@ -475,6 +492,7 @@
         },
         {
             "id": 18,
+            "group": "e",
             "name": "Switzerland",
             "fifaCode": "SUI",
             "iso2": "ch",
@@ -484,6 +502,7 @@
         },
         {
             "id": 19,
+            "group": "e",
             "name": "Costa Rica",
             "fifaCode": "CRC",
             "iso2": "cr",
@@ -493,6 +512,7 @@
         },
         {
             "id": 20,
+            "group": "e",
             "name": "Serbia",
             "fifaCode": "SRB",
             "iso2": "rs",
@@ -502,6 +522,7 @@
         },
         {
             "id": 21,
+            "group": "f",
             "name": "Germany",
             "fifaCode": "GER",
             "iso2": "de",
@@ -511,6 +532,7 @@
         },
         {
             "id": 22,
+            "group": "f",
             "name": "Mexico",
             "fifaCode": "MEX",
             "iso2": "mx",
@@ -520,6 +542,7 @@
         },
         {
             "id": 23,
+            "group": "f",
             "name": "Sweden",
             "fifaCode": "SWE",
             "iso2": "se",
@@ -529,6 +552,7 @@
         },
         {
             "id": 24,
+            "group": "f",
             "name": "South Korea",
             "fifaCode": "KOR",
             "iso2": "kr",
@@ -538,6 +562,7 @@
         },
         {
             "id": 25,
+            "group": "g",
             "name": "Belgium",
             "fifaCode": "BEL",
             "iso2": "be",
@@ -547,6 +572,7 @@
         },
         {
             "id": 26,
+            "group": "g",
             "name": "Panama",
             "fifaCode": "PAN",
             "iso2": "pa",
@@ -556,6 +582,7 @@
         },
         {
             "id": 27,
+            "group": "g",
             "name": "Tunisia",
             "fifaCode": "TUN",
             "iso2": "tn",
@@ -565,6 +592,7 @@
         },
         {
             "id": 28,
+            "group": "g",
             "name": "England",
             "fifaCode": "ENG",
             "iso2": "gb-eng",
@@ -574,6 +602,7 @@
         },
         {
             "id": 29,
+            "group": "h",
             "name": "Poland",
             "fifaCode": "POL",
             "iso2": "pl",
@@ -583,6 +612,7 @@
         },
         {
             "id": 30,
+            "group": "h",
             "name": "Senegal",
             "fifaCode": "SEN",
             "iso2": "sn",
@@ -592,6 +622,7 @@
         },
         {
             "id": 31,
+            "group": "h",
             "name": "Colombia",
             "fifaCode": "COL",
             "iso2": "co",
@@ -601,6 +632,7 @@
         },
         {
             "id": 32,
+            "group": "h",
             "name": "Japan",
             "fifaCode": "JPN",
             "iso2": "jp",
